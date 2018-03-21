@@ -1,0 +1,2 @@
+# practica
+comandos para git
